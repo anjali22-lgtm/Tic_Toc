@@ -3,6 +3,7 @@
 A simple Tic Tac Toe game built using React.js with restart feature and winning highlight.
 
 🚀 Features
+
 ✅ Classic 3x3 Tic Tac Toe gameplay
 ✅ Highlights the winning combination
 ✅ Restart button to reset the game
@@ -10,6 +11,7 @@ A simple Tic Tac Toe game built using React.js with restart feature and winning 
 ✅ Built entirely with React Hooks (useState)
 
 🧠 Tech Stack
+
 React.js – Frontend Framework
 HTML5 & CSS3 – Styling
 JavaScript (ES6+) – Logic Handling
